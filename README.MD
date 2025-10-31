@@ -12,6 +12,9 @@ Setup environment variables:
 ```
 lecture5412=aaaaaaa
 ```
+OR 
+create `.env` file 
+with the same environment variables
 
 
 ## Deployment
@@ -25,3 +28,6 @@ Setup environment variables:
 ```
 lecture5412=aaaaaaa
 ```
+OR 
+create `.env` file 
+with the same environment variables
