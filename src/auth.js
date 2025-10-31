@@ -1,0 +1,1 @@
+export let API_KEY  = process.env.lecture5412
