@@ -11,6 +11,7 @@ npm run start:dev
 Setup environment variables:
 ```
 lecture5412=aaaaaaa
+JWT_SECRET=asdasda
 ```
 OR 
 create `.env` file 
@@ -27,6 +28,7 @@ npm run start
 Setup environment variables:
 ```
 lecture5412=aaaaaaa
+JWT_SECRET=asdasda
 ```
 OR 
 create `.env` file 
